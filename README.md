@@ -9,5 +9,5 @@ To learn more about Umbraco check it out at this <a href=https://umbraco.com/>Li
 Also check out umbraco cms <a href=https://github.com/umbraco/Umbraco-CMS>repository</a>
 
 <!--
-  Comment.
+  Pryna and Umbra
 -->
