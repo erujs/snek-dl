@@ -30,9 +30,7 @@ Python program for downloading videos using `redvid` and `yt-dlp`.
 	python3 main.py
 	```
 
-## Scope
-
-- **Supported Platforms**:
+## Supported Platforms
   - YouTube
   - TikTok
   - Reddit
