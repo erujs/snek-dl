@@ -23,7 +23,15 @@ Python program for downloading videos using `redvid` and `yt-dlp`.
 	pip install -r requirements.txt
 	```
 
-3. Add video URLs in data.py.
+3. Create data.py file in root directory and add video URLs
+	```
+	// data.py
+
+	def data():
+    return [
+        'https://www.youtube.com/watch?v=<YOUTUBE_ID>',
+    ]
+	```
 
 4. Run the script:
 	```
